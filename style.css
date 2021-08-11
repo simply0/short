@@ -1,0 +1,18 @@
+p, h{
+    color:rgb(15, 1, 75);
+    font-family:'Times New Roman', Helvetica;
+    text-transform: uppercase;
+    font-size: 20px;
+    background-color: hotpink;
+    font-style: oblique;
+}
+#hey{
+    background-color: green;
+    box-shadow: rgb(36, 31, 31);
+}
+form{
+    background-color: rgb(237, 249, 247);
+}
+a{
+    color:orangered;
+}
